@@ -24,10 +24,11 @@ This project analyzes historical MTA Daily Ridership data to uncover trends, ans
 - `reports/` - Final project report and presentation slides
 
 ## 👥 Team Members
-- [Name 1] - [GitHub Username]
-- [Name 2] - [GitHub Username]
-- [Name 3] - [GitHub Username]
-- [Name 4] - [GitHub Username]
+- [Amr Mohamed] 
+- [Hamed Hobballah] 
+- [Ahmed Tamer]
+- [Hadeer Mohamed] 
+- [Kiriakos  Ayman]
 
 ## 🚀 Getting Started
 1. Clone the repository: `git clone [your-repo-link]`
