@@ -18,7 +18,7 @@ Raw CSV Data (2020–2024)
    │                                                       ├── Dim_Agency (7 rows)
    │                                                       └── Fact_DailyRidership (11,942 rows)
    │
-   └──▶ [Business Intelligence] ──▶ SQL Analytics Queries & Power BI / Tableau Dashboards
+   └──▶ [Business Intelligence] ──▶ SQL Analytics Queries & Power BI 
 ```
 
 ---
