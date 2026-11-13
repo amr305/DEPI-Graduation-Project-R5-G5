@@ -1,0 +1,31 @@
+Station_Complex,Borough,Latitude,Longitude,Line_Count,ADA_Accessible
+Times Sq-42 St,Manhattan,40.75529,-73.987495,12,Yes
+Grand Central-42 St,Manhattan,40.751776,-73.976848,8,Yes
+34 St-Herald Sq,Manhattan,40.749567,-73.98795,8,Yes
+34 St-Penn Station,Manhattan,40.750373,-73.991057,6,Yes
+14 St-Union Sq,Manhattan,40.734673,-73.989951,8,Yes
+Fulton St,Manhattan,40.710374,-74.007582,8,Yes
+59 St-Columbus Circle,Manhattan,40.768247,-73.981929,5,Yes
+Flushing-Main St,Queens,40.7596,-73.83003,1,Yes
+Atlantic Av-Barclays Ctr,Brooklyn,40.684359,-73.977666,9,Yes
+Jackson Hts-Roosevelt Av,Queens,40.746644,-73.891338,5,Yes
+42 St-Port Authority Bus Terminal,Manhattan,40.757308,-73.989735,3,Yes
+Canal St,Manhattan,40.718803,-74.000193,6,No
+Jamaica Center-Parsons/Archer,Queens,40.702147,-73.801109,3,Yes
+Jay St-MetroTech,Brooklyn,40.692338,-73.987342,4,Yes
+Lexington Av/59 St,Manhattan,40.762526,-73.967967,5,No
+86 St,Manhattan,40.779492,-73.955589,3,No
+161 St-Yankee Stadium,Bronx,40.827994,-73.925831,3,Yes
+W 4 St-Wash Sq,Manhattan,40.732338,-74.000495,7,Yes
+96 St,Manhattan,40.793919,-73.972323,3,Yes
+72 St,Manhattan,40.778453,-73.98197,3,Yes
+Fordham Rd,Bronx,40.861296,-73.897749,2,Yes
+125 St,Manhattan,40.804138,-73.937594,3,Yes
+Bowling Green,Manhattan,40.704817,-74.014065,2,Yes
+Sutphin Blvd-Archer Av-JFK,Queens,40.700486,-73.807969,3,Yes
+DeKalb Av,Brooklyn,40.690635,-73.981824,4,Yes
+Crown Hts-Utica Av,Brooklyn,40.668897,-73.932942,2,Yes
+149 St-Grand Concourse,Bronx,40.818375,-73.927351,3,No
+Delancey St-Essex St,Manhattan,40.718315,-73.987437,4,No
+Bedford Av,Brooklyn,40.717304,-73.956872,1,Yes
+Astoria-Ditmars Blvd,Queens,40.775036,-73.912034,2,No
