@@ -48,7 +48,7 @@ Raw Multi-Source CSV Data (2020–2024)
 
 The data warehouse decouples 5 shared conformed dimensions from 4 core business process fact tables to optimize OLAP query execution and cross-domain analysis:
 
-![MTA Transit Data Warehouse Galaxy Schema](Docs/Galaxy%20Schema_2.png)
+![MTA Transit Data Warehouse Galaxy Schema](Docs/Galaxy%20Schema.png)
 
 ### Schema Summary
 - **Conformed Dimensions (5 Tables):**
